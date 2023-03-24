@@ -1,9 +1,11 @@
 # 3dPortfolio
 
-### starting dev env
+## starting dev env
 
 `npm run dev`
 
-### time stamps
+## time stamps
 
-3.22 - 46:17
+| date | video timestamp | descrip           |
+| ---- | --------------- | ----------------- |
+| 3.22 | 46:17           | computers.js init |

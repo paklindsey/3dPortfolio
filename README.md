@@ -1,5 +1,7 @@
 # 3dPortfolio
 
+https://www.youtube.com/watch?v=0fYi8SGA20k&t=4376s&ab_channel=JavaScriptMastery
+
 ## starting dev env
 
 `npm run dev`

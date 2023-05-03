@@ -13,5 +13,5 @@ https://www.youtube.com/watch?v=0fYi8SGA20k&t=4376s&ab_channel=JavaScriptMastery
 | 3.22 | 46:17           | computers.js init     |
 | 3.24 | 1:07:33         | finished hero section |
 | 3.25 | 1:13:15         | map bug               |
-|      |                 |                       |
+| 05.3 | 1:42:47         | tech section          |
 |      |                 |                       |
